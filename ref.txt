@@ -1,0 +1,19 @@
+sub codes:
+
+math:041
+phy:042
+chem:043
+
+topic codes:
+	
+	maths:
+		matrices:01
+		integral:02
+	phy:
+		optics:01
+		current electricity:02
+	chem:
+		amines:01
+		polymers:02
+
+	
